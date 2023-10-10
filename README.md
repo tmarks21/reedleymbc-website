@@ -19,9 +19,7 @@ This project is for Reedley MB Church
 | Color3 | ![#98b4d2](https://via.placeholder.com/10/98b4d2?text=+) #98b4d2 |
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
-
+![Logo](https://github.com/tmarks21/reedleymbc-website/blob/9c9af73332e106e06b70680fad16ee2c559b6c14/reedleymbc.png)
 ## Used By
 
 This project is used by the following companies:
